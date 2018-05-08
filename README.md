@@ -11,7 +11,7 @@
 <table>
 	<tr>
 		<th colspan="3">开发记录</th>
-		<th colspan="2">解决方案</th>
+		<th colspan="3">解决方案</th>
 	</tr>
 	<tr>
 		<th>时间</th>
@@ -19,6 +19,7 @@
 		<th>备注</th>
 		<th>方法</th>
 		<th>说明</th>
+		<th>日后补充</th>
 	</tr>
 	<!-- 2018.5.8 -->
 	<tr>
@@ -27,6 +28,7 @@
 		<td>正式开始</td>
 		<td><a href="http://www.thinkphp.cn/topic/52748.html">TP-Admin 站群CMS内容管理系统</a></td>
 		<td>有一定局限</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -34,22 +36,10 @@
 		<td></td>
 		<td><a href="https://wenku.baidu.com/search?word=%D7%D4%D6%FA%BD%A8%D5%BE%CF%B5%CD%B3&org=0&ie=gbk">百度文库搜索</a></td>
 		<td>解决途径之一</td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -62,22 +52,10 @@
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -90,22 +68,10 @@
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -118,22 +84,10 @@
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -146,22 +100,10 @@
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -174,22 +116,10 @@
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -202,8 +132,106 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
