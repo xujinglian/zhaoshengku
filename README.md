@@ -218,38 +218,27 @@
 <table>
 	<tr>
 		<td>
-			<iframe src="#">
 				<table>
 					<tr>
 						<th colspan="3">开发记录</th>
-						<th colspan="2">解决方案</th>
 					</tr>
 					<tr>
 						<th>时间</th>
 						<th>提示</th>
 						<th>备注</th>
-						<th>方法</th>
-						<th>说明</th>
 					</tr>
 				</table>
-			</iframe>
 		</td>
 		<td>
-			<iframe src="#">
 				<table>
 					<tr>
-						<th colspan="3">开发记录</th>
 						<th colspan="2">解决方案</th>
 					</tr>
 					<tr>
-						<th>时间</th>
-						<th>提示</th>
-						<th>备注</th>
 						<th>方法</th>
 						<th>说明</th>
 					</tr>
 				</table>
-			</iframe>
 		</td>
 	</tr>
 </table>
