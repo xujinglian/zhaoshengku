@@ -40,8 +40,8 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
+		<td>2018年5月9日</td>
+		<td>增加类似网站截图<br/>README文件定性</td>
 		<td></td>
 		<td><a href="https://wenku.baidu.com/search?word=%D7%D4%D6%FA%BD%A8%D5%BE%CF%B5%CD%B3&org=0&ie=gbk">百度文库搜索</a></td>
 		<td>解决途径之一</td>
