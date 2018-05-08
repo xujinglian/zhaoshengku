@@ -32,8 +32,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
-		<td></td>
+		<td><a href="https://wenku.baidu.com/search?word=%D7%D4%D6%FA%BD%A8%D5%BE%CF%B5%CD%B3&org=0&ie=gbk">百度文库搜索</a></td>
+		<td>解决途径之一</td>
 	</tr>
 	<tr>
 		<td></td>
