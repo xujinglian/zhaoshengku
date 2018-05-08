@@ -7,6 +7,15 @@
 	<li>注册、登录</li>
 	<li>用户角色</li>
 </ol>
+<h1>类似网站</h1>
+<ol>
+	<li><a href="https://www.gove.cn/">村网通</a></li>
+	<li><a href="">新浪博客</a></li>
+	<li><a href="http://www.php.cn/#blog_kaitong">PHP中文网的新建博客</a></li>
+	<li><a href=""></a></li>
+	<li><a href=""></a></li>
+	<li><a href=""></a></li>
+</ol>
 <br/><br/><hr/><br/><br/>
 <table>
 	<tr>
