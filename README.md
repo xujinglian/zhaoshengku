@@ -218,7 +218,7 @@
 <table>
 	<tr>
 		<td>
-			<iframe src="#">
+			<iframe src="#" width="1000px;">
 			左边栏内容<br/>
 			福建省打飞机<br/>
 			方式简单库房酒<br/>
