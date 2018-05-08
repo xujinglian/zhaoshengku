@@ -218,39 +218,38 @@
 <table>
 	<tr>
 		<td>
-			<iframe src="#" width="1000px;">
-			左边栏内容<br/>
-			福建省打飞机<br/>
-			方式简单库房酒<br/>
-			发送的发多少<br/>
-			防守打法<br/>
-			防守打法<br/>
-			防守打法<br/>
-			防守打法的三<br/>
-			飞洒地方<br/>
-			飞洒地方<br/>
-			发士大夫撒旦<br/>
-			防守打法<br/>
-			防守打法的三<br/>
-			fsadfsd 水电费水电费<br/>
-			发士大夫撒旦<br/>
-			发士大夫撒旦<br/>
-			发士大夫撒旦<br/>
-			发士大夫撒旦<br/>
-			防守打法的三<br/>
-			防守打法的三<br/>
-			防守打法的三<br/>
-			防守打法的三<br/>
-			防守打法的三<br/>
-			发士大夫撒旦<br/>
-			防守打法<br/>
-			发士大夫撒旦<br/>
-			防守打法的三<br/>
-			防守打法的三<br/>
-			防守打法的三<br/>
-			割发代首<br/>
+			<iframe src="#">
+				<table>
+					<tr>
+						<th colspan="3">开发记录</th>
+						<th colspan="2">解决方案</th>
+					</tr>
+					<tr>
+						<th>时间</th>
+						<th>提示</th>
+						<th>备注</th>
+						<th>方法</th>
+						<th>说明</th>
+					</tr>
+				</table>
 			</iframe>
 		</td>
-		<td><iframe src="#">右边栏内容</iframe></td>
+		<td>
+			<iframe src="#">
+				<table>
+					<tr>
+						<th colspan="3">开发记录</th>
+						<th colspan="2">解决方案</th>
+					</tr>
+					<tr>
+						<th>时间</th>
+						<th>提示</th>
+						<th>备注</th>
+						<th>方法</th>
+						<th>说明</th>
+					</tr>
+				</table>
+			</iframe>
+		</td>
 	</tr>
 </table>
