@@ -17,7 +17,7 @@
 		<td>2018年5月8日</td>
 		<td>创建招生库系统项目</td>
 		<td>正式开始</td>
-		<td><button>按钮</button></td>
+		<td><button class="btn">按钮</button></td>
 		<td></td>
 	</tr>
 	<!-- 2018.5.9 -->
