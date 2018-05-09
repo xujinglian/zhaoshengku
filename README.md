@@ -19,18 +19,18 @@
 	<li><a href=""></a></li>
 </ol>
 <br/><br/><hr/><br/><br/>
-<table width="1000px;" height="1200px;">
+<table width="2000px;" height="1200px;" style="overflow: scroll;">
 	<tr>
 		<th colspan="3">开发记录</th>
 		<th colspan="3">解决方案</th>
 	</tr>
 	<tr>
-		<th width="100px;">时间</th>
-		<th width="100px;">提示</th>
-		<th width="100px;">备注</th>
-		<th width="100px;">方法</th>
-		<th width="100px;">说明</th>
-		<th width="100px;">日后补充</th>
+		<th width="150px;">时间</th>
+		<th width="400px;">提示</th>
+		<th width="400px;">备注</th>
+		<th width="500px;">方法</th>
+		<th width="400px;">说明</th>
+		<th width="350px;">日后补充</th>
 	</tr>
 	<!-- 2018.5.8 -->
 	<tr>
